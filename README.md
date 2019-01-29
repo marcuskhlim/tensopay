@@ -1,2 +1,2 @@
 # TensoAlpha
-Alpha version of Tenso
+Alpha version of Tenso Server
