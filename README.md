@@ -62,3 +62,4 @@ yarn dev
 # 1. Run prisma deploy
 yarn prisma deploy
 ```
+
